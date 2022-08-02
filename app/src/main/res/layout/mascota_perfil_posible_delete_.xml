@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/orange_app_50"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="-49dp">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/orange_app"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-1dp">
+
+        <ImageView
+            android:id="@+id/imgLogOut"
+            android:layout_width="54dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_logout"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="38dp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/dimen_150dp"
+            android:layout_weight="3"
+            android:adjustViewBounds="true"
+            android:paddingTop="@dimen/dimen_10dp"
+
+            android:paddingBottom="@dimen/dimen_10dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="88dp"
+            android:text="@string/AÑADE_TU_MASCOTA"
+            android:textColor="@color/texto_app"
+            android:textSize="@dimen/dimen_25sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.575" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageButton
+        android:id="@+id/ib_Perfil2"
+        android:layout_width="106dp"
+        android:layout_height="94dp"
+        android:onClick="SiguientePerfil"
+        android:src="@drawable/ic_perfil"
+        tools:layout_editor_absoluteX="152dp"
+        tools:layout_editor_absoluteY="126dp" />
+
+    <ImageButton
+        android:id="@+id/ib_Perfil3"
+        android:layout_width="106dp"
+        android:layout_height="94dp"
+        android:layout_marginEnd="20dp"
+        android:onClick="SiguientePerfil"
+        android:src="@drawable/ic_perfil"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="126dp" />
+
+    <ImageButton
+        android:id="@+id/ib_Perfil"
+        android:layout_width="106dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="28dp"
+        android:onClick="SiguientePerfil"
+        android:src="@drawable/ic_perfil"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="126dp" />
+
+    <ImageButton
+        android:id="@+id/ib_Perfil2"
+        android:layout_width="106dp"
+        android:layout_height="94dp"
+        android:onClick="SiguientePerfil"
+        android:src="@drawable/ic_perfil"
+        tools:layout_editor_absoluteX="152dp"
+        tools:layout_editor_absoluteY="269dp" />
+
+    <ImageButton
+        android:id="@+id/ib_Perfil3"
+        android:layout_width="112dp"
+        android:layout_height="97dp"
+        android:onClick="SiguientePerfil"
+        android:src="@drawable/ic_perfil"
+        tools:layout_editor_absoluteX="283dp"
+        tools:layout_editor_absoluteY="269dp" />
+
+    <ImageButton
+        android:id="@+id/ib_Perfil"
+        android:layout_width="106dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="16dp"
+        android:src="@drawable/ic_perfil"
+        app:layout_constraintEnd_toStartOf="@+id/ib_Perfil2"
+        app:layout_constraintHorizontal_bias="0.4"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="269dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="370dp"
+        android:layout_height="36dp"
+        android:background="#FFE2BD"
+        android:backgroundTint="#FFDCA4"
+        android:text="@string/Otros"
+        tools:layout_editor_absoluteX="19dp"
+        tools:layout_editor_absoluteY="392dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

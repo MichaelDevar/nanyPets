@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">nanyPets</string>
+    <string name="seleccione_opcion">seleccione opcion</string>
+    <string name="AÑADE_TU_MASCOTA">AÑADE TU MASCOTA</string>
+    <string name="mi_mascota">mi mascota</string>
+    <string name="agenda">agenda</string>
+    <string name="mi_perfil">mi perfil</string>
+    <string name="vacunas">vacunas</string>
+    <string name="alimentacion">alimentacion</string>
+    <string name="opinion">Danos tu opinion</string>
+    <string name="strNombrePresentacion">NANYPETS</string>
+    <string name="Otros">otros</string>
+    <string name="iv_foto">Foto</string>
+    <string name="perro">perro</string>
+    <string name="gato">gato</string>
+    <string name="hamster">hamster</string>
+    <string name="seleccione_mascota">seleccione mascota</string>
+    <string name="macho">macho</string>
+    <string name="hembra">hembra</string>
+    <string name="No">No</string>
+    <string name="Si">Si</string>
+    <string name="castracion">¿Castrado o esterelizado?</string>
+    <string name="canario">canario</string>
+    <string name="conejo">conejo</string>
+    <string name="tortuga">tortuga</string>
+    <string name="ingreso">Ingreso Vacuna</string>
+</resources>

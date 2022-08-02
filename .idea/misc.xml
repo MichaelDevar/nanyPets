@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.195" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/drawable/ic_alimentacion.xml" value="0.195" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/drawable/ic_calendario.xml" value="0.195" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/drawable/ic_inyeccion.xml" value="0.195" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/drawable/ic_launcher.xml" value="0.195" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/drawable/ic_launcher_background.xml" value="0.195" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/drawable/ic_logout.xml" value="0.195" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/drawable/ic_mascotas.xml" value="0.195" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/drawable/ic_opinion.xml" value="0.195" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/drawable/ic_perfil.xml" value="0.195" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/drawable/ic_pets.xml" value="0.195" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/activity_aniadir_perfil.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/activity_imagen_completa.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/activity_mi_agenda.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/activity_mi_alimentacion.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/activity_mi_galeria.xml" value="0.22" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/activity_mi_mascota.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/activity_mi_opinion.xml" value="0.2109375" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/activity_mi_perfil.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/activity_mi_vacuna.xml" value="0.25023169601482853" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/activity_mi_vacuna2.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/activity_seleccione_mascota.xml" value="0.25" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/aniadir_nuevo_perfil_mascota.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/aniadir_perfil.xml" value="0.33" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/ativity_menu.xml" value="0.22" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/ativity_menu_principal.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/editborder.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/mascota_perfil.xml" value="0.25" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/mascota_perfil_posible_delete_.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/mi_agenda.xml" value="0.16875" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/mi_alimentacion.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/mi_mascota.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/mi_opinion.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/mi_perfil.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/mis_vacunas.xml" value="0.1390625" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/perfil_mascota.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/spinner_item.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/spinner_item_mascota.xml" value="0.225" />
+        <entry key="..\:/Users/USER/nanyPets/app/src/main/res/layout/vacuna_layout.xml" value="0.33623910336239105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
